@@ -1,3 +1,2 @@
-# hello-world
-just another repository
-it's just a test for using this useful document formatting platform.
+# meeting reporting
+this is for a meeting associated with the project i'm participating in 2019
